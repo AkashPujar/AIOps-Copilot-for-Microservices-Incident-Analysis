@@ -1,0 +1,14 @@
+{
+  "order-service": {
+    "error_rate_percent": 3.2,
+    "status": "warning"
+  },
+  "payment-service": {
+    "error_rate_percent": 18.5,
+    "status": "critical"
+  },
+  "notification-service": {
+    "error_rate_percent": 0.8,
+    "status": "normal"
+  }
+}

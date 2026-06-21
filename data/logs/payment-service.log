@@ -1,0 +1,4 @@
+2026-05-01 10:01:12 ERROR Database connection timeout
+2026-05-01 10:01:18 WARN Retry attempt failed
+2026-05-01 10:01:20 ERROR Payment transaction failed
+2026-05-01 10:01:24 ERROR Connection pool exhausted

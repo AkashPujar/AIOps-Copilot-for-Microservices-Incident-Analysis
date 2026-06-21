@@ -1,0 +1,3 @@
+2026-05-01 10:00:10 INFO Order created
+2026-05-01 10:00:20 WARN API latency increased
+2026-05-01 10:00:30 ERROR Downstream payment-service unavailable

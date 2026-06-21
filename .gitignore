@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+vectorstore/
+logs/*.jsonl
+logs/*.json
+logs/*.log
+.venv/
+.DS_Store
+__MACOSX/
+.git/

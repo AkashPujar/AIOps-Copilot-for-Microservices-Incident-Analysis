@@ -1,0 +1,14 @@
+{
+  "order-service": {
+    "p95_latency_ms": 850,
+    "status": "warning"
+  },
+  "payment-service": {
+    "p95_latency_ms": 2400,
+    "status": "critical"
+  },
+  "notification-service": {
+    "p95_latency_ms": 180,
+    "status": "normal"
+  }
+}
